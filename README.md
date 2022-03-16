@@ -11,4 +11,10 @@ convert speech to text using queuing and multiprocessing/multithreading.
 - The number of API calls depends on the processor, should experiment on the <br />
 CPU to determine how many API calls it can handle simultaneously <br />
 
+### Phase 1 Queue System
 
+- "queueMultiProc.py": stub function with multiprocessing and queue
+
+- "queueMultiThread.py": stub function with multithreading and queue
+
+- "multiprocTest.py": stub function with multiprocessing
