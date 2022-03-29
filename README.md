@@ -18,3 +18,13 @@ CPU to determine how many API calls it can handle simultaneously <br />
 - "queueMultiThread.py": stub function with multithreading and queue
 
 - "multiprocTest.py": stub function with multiprocessing
+
+### phase 2 speech to text
+
+- "speech2Text.py": convert speech to text using google cloud
+
+- "s2tMultiThread.py": speech to text with multi-threading
+	
+	The "s2tMultiThread.py" convert the example audios to text message using multi-threading
+
+
