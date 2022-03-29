@@ -25,6 +25,6 @@ CPU to determine how many API calls it can handle simultaneously <br />
 
 - "s2tMultiThread.py": speech to text with multi-threading
 	
-	The "s2tMultiThread.py" convert the example audios to text message using multi-threading
+	The "s2tMultiThread.py" convert the example audios to text message using multi-threading and queue
 
 
