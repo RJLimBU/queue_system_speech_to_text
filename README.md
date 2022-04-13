@@ -29,10 +29,11 @@ is running 4 API calls simultaneously. <br />
 
 #### Speech to Text with Multi-threading
 
-The idea for implementing speech to text with multi-threading is that one separates a speech to many small 
-pieces of sentences,then put each piece of sentences in a queuing list. The process of converting a piece of sentences 
-into text is handle with threads. The queuing process is based on the order of sentences. The script uses google cloud to 
-convert speech to text.
+- The idea for implementing speech to text with multi-threading is that one separates a speech to many small 
+pieces of sentences,then put each piece of sentences in a queuing list. The process of converting a piece 
+of sentences into text is handle with threads. The queuing process is based on the order of sentences. The 
+script uses google cloud to convert speech to text.
+
 
 
 
